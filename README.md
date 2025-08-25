@@ -1,5 +1,3 @@
 # belajar-kolaborasi
-hello
-hai
-hello
-hai
+belajar github di dicoding sangat menyenangkan!<br>
+saya sangat bersemangat
